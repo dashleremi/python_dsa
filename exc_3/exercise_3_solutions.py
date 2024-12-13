@@ -1,5 +1,6 @@
 from collections import Counter
 
+# list_of_records
 buckets = [ ('john.doe@example.com',{'first_name':'john','last_name':'doe'}),
             ('jane.doe@example.com',{'first_name':'jane','last_name':'doe'}),
             ('derek.zoo@example.com',{'first_name':'derek','last_name':'zoolander'}),
